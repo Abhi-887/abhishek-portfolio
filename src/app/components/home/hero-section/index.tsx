@@ -27,6 +27,17 @@ const index = () => {
               Lead Software Engineer with expertise in architecting enterprise solutions using Laravel, React, and Vue.js. 
               Passionate about building scalable full-stack applications and mentoring development teams.
             </p>
+            <div className="flex gap-4">
+              <Link
+                href="/pdf/Resume-abhishek-rajput.pdf"
+                download="Resume-abhishek-rajput.pdf"
+                className="relative overflow-hidden cursor-pointer py-2 sm:py-3 md:py-5 px-4 sm:px-5 md:px-7 border border-primary rounded-full group w-fit"
+              >
+                <span className="relative z-10 text-lg font-medium text-primary group-hover:text-white transition-colors duration-300">
+                  Download Resume
+                </span>
+              </Link>
+            </div>
           </div>
           <Image
             src={getImgPath("/images/home/banner/abhishek-rajput.png")}
