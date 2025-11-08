@@ -1,0 +1,31 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/work-img-1.png",
+      "title": "AssetX – Enterprise Asset Management Tool",
+      "client": "Hire Synchronisation Pvt. Ltd",
+      "slug": "assetx-eam-tool",
+      "link": "https://i-assetx.com/"
+    },
+    {
+      "image": "/images/work/work-img-4.jpg",
+      "title": "HISYNC - Business Transformation Platform",
+      "client": "Hire Synchronisation Pvt. Ltd",
+      "slug": "hisync-platform",
+      "link": "https://hisync.in/"
+    },
+    {
+      "image": "/images/work/work-img-3.jpg",
+      "title": "Wicksman's - Australian Whiskey Auction Platform",
+      "client": "Wicksman's",
+      "slug": "wicksmans-auction-platform",
+      "link": "https://www.wickman.com.au/"
+    },
+    {
+      "image": "/images/work/work-img-2.jpg",
+      "title": "IndusInd Bank – Chatbot FAQ (IBL Process Chatbot)",
+      "client": "IndusInd Bank",
+      "slug": "indusind-bank-chatbot"
+    }
+  ]
+}

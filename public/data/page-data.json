@@ -1,0 +1,108 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "abhishekrajput.ar887@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:abhishekrajput.ar887@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 9810839870",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+919810839870"
+      },
+      {
+        "type": "website",
+        "label": "launchweb.in",
+        "icon": "/images/icon/web-icon.svg",
+        "link": "https://launchweb.in/"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "github",
+        "icon": "/images/icon/dribble-icon.svg",
+        "link": "https://github.com/abhi-hisync"
+      },
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com/in/abhishek-rajput-83b3b6271/"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "10th Grade - CBSE Board - 2016",
+        "description": "Completed Secondary School Education (10th Grade) from Central Board of Secondary Education (CBSE)"
+      },
+      {
+        "title": "12th Grade - CBSE Board - 2018",
+        "description": "Completed Higher Secondary School Education (12th Grade) from Central Board of Secondary Education (CBSE)"
+      },
+      {
+        "title": "Bachelor of Technology (CSE) - 2023",
+        "description": "Bachelor of Technology in Computer Science Engineering from J.C. Bose University of Science and Technology, YMCA Faridabad, Haryana (Aug 2019 – Dec 2023)"
+      }
+    ],
+    "skills": [
+      {
+        "name": "PHP",
+        "icon": "/images/logo/php-vector-logo-seeklogo/php-seeklogo.svg",
+        "rating": 5
+      },
+      {
+        "name": "TypeScript",
+        "icon": "/images/logo/typescript-vector-logo-seeklogo/typescript-seeklogo.svg",
+        "rating": 5
+      },
+      {
+        "name": "Laravel",
+        "icon": "/images/logo/laravel-vector-logo-seeklogo/laravel-seeklogo.svg",
+        "rating": 5
+      },
+      {
+        "name": "React.js",
+        "icon": "/images/logo/react-vector-logo-seeklogo/react-seeklogo.svg",
+        "rating": 5
+      },
+      {
+        "name": "Vue.js",
+        "icon": "/images/logo/vue-js-vector-logo-seeklogo/vue-js-seeklogo.svg",
+        "rating": 5
+      },
+      {
+        "name": "MySQL",
+        "icon": "/images/logo/mysql-vector-logo-seeklogo/mysql-seeklogo.svg",
+        "rating": 5
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "GitHub",
+        "href": "https://github.com/abhi-hisync"
+      },
+      {
+        "title": "LinkedIn",
+        "href": "https://www.linkedin.com/in/abhishek-rajput-83b3b6271/"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "abhishekrajput.ar887@gmail.com",
+        "link": "mailto:abhishekrajput.ar887@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 9810839870",
+        "link": "tel:+919810839870"
+      }
+    ]
+  }
+}
